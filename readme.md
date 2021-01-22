@@ -1,3 +1,3 @@
-# Genetic Algorithm for Route Optimization
+## Genetic Algorithm for Route Optimization
 
-This was a course assignment in Linear programming & optimization where I 
+This was a course assignment in Linear programming & optimization.
